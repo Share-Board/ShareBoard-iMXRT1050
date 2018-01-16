@@ -6,5 +6,5 @@
 ![iMXRT1050_Chip](./Pic/iMXRT1050_Chip.jpg)
 
 
-## Contributor
+## :tada: Contributor :tada:
 - PCB designed by **wabc**
