@@ -7,4 +7,5 @@
 
 
 ## :tada: Contributor :tada:
-- PCB designed by **wabc**
+- **wabc**
+- All of **YOU** who love i.mx rt1050 
