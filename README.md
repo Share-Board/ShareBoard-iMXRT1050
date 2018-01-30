@@ -12,7 +12,7 @@
 - **[FreeRTOS](https://www.freertos.org/) (comming soon)**
 - **[RT-Thread](https://github.com/RT-Thread/rt-thread) (comming soon)**
 - **[LiteOS](https://github.com/LITEOS/LiteOS_Kernel) (comming soon)**
-- **LearningGUI (comming soon)**
+- **[LearningGUI](http://www.learninggui.org/) (comming soon)**
 - **[MicroPython](https://github.com/micropython/micropython) (comming soon)**
 - **[MOE](https://github.com/ianhom/MOE) (comming soon)**
 - **More...**
