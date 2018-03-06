@@ -35,6 +35,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## :tada: Contributor :tada:
 - **wcabc**
 - **融**
+- **Stephen**
 - **Thanksgiving**
 - **三**
 - All of **YOU** who love i.mx rt1050 
