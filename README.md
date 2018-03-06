@@ -36,4 +36,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 - **wcabc**
 - **融**
 - **Thanksgiving**
+- **三**
 - All of **YOU** who love i.mx rt1050 
