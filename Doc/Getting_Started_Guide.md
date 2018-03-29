@@ -3,4 +3,5 @@
 
 
 - 步骤2
-- 步骤3
+- 步骤3    
+![iMXRT1050_Chip](../Pic/ShareBoard_rtt_mpy_demo.gif)   
