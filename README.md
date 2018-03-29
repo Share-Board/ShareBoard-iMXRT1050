@@ -11,13 +11,16 @@
 
 ## Software
 - **[FreeRTOS](https://www.freertos.org/) (comming soon)**
-- **[RT-Thread](https://github.com/RT-Thread/rt-thread) (comming soon)**
+- **[RT-Thread](https://github.com/RT-Thread/rt-thread) (comming soon)**    
 - **[LiteOS](https://github.com/LITEOS/LiteOS_Kernel) (comming soon)**
 - **[LearningGUI](http://www.learninggui.org/) (comming soon)**
 - **[MicroPython](https://github.com/micropython/micropython) (comming soon)**
 - **[MOE](https://github.com/ianhom/MOE) (comming soon)**
 - **More...**
 
+# Demo
+- i.MX RT1052 + RT-Thread + MicroPython   
+![iMXRT1050_Chip](./Pic/ShareBoard_rtt_mpy_demo.gif)   
 
 ## More
 - Want more talks? join us - QQ [450919784](https://jq.qq.com/?_wv=1027&k=5NtfK5h)    
