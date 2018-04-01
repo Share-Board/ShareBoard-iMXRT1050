@@ -7,7 +7,8 @@
 ## Hardware
 ![iMXRT1050_Chip](./Pic/ShareBoard-i.MXRT1050_REV3.pdf.jpg)   
 ![iMXRT1050_Chip](./Pic/ShareBoard-i.MXRT1050_REV3_Pcb2.jpg)   
-![iMXRT1050_Chip](./Pic/ShareBoard-i.MXRT1050_REV3_Pcb5.jpg)   
+![iMXRT1050_Chip](./Pic/PCB_Front.png)     
+![iMXRT1050_Chip](./Pic/PCB_Back.png)   
 
 ## Software
 - **[FreeRTOS](https://www.freertos.org/) (comming soon)**
