@@ -12,11 +12,13 @@
 - **请注意！因为A0芯片的bug，断电后再上电的时间间隔需大于5秒，否则无法正常启动（电源指示LED不亮）**
 
 ## 步骤4
-- 如果一切正常，上电后终端软件将显示RTT的启动界面，当见到```“I am ShareBoard!”```之后，既可以操作**按键K2**
+- 如果一切正常，上电后终端软件将显示RTT的启动界面，当见到```“I am ShareBoard!”```之后，操作**按键K2**，终端将打印信息，同时**LED1**会随之ON/OFF
+- **长按按键K2**将退出示例程序，进入MicroPython的交互模式，重新返回示例程序只需输入```f()```即可
 
 
 
-
+## Reference
+-[GPIO映射](https://github.com/RT-Thread/rt-thread/blob/8ed3470d2a485c49ec4f5d4a5ec53e94edf7a2c8/bsp/imxrt1052-evk/drivers/drv_pin.c#L184)
 
 ## DEMO
 ![iMXRT1050_Chip](../Pic/ShareBoard_rtt_mpy_demo.gif)    
