@@ -6,13 +6,10 @@
 
 ## 步骤2
 - 请使用USB转TTL连接电脑与ShareBoard，仅需连接**GND, TXD, RXD**即可，如图所示：    
-    
 ![](../Pic/PCB_Front_size400_des.png)    
 
 
-
 - 打开终端软件（如SecureCRT）连接对应的串口，参数为**115200/8/N/1**，如图所示：     
-    
 ![](../Pic/terminal_size400.png)
 
 ## 步骤3
@@ -22,7 +19,6 @@
 ## 步骤4
 - 如果一切正常，上电后终端软件将显示RTT的启动界面，当见到```“I am ShareBoard!”```之后，操作**按键K2**，终端将打印信息，同时**LED1**会随之ON/OFF
 - **长按按键K2**将退出示例程序，进入MicroPython的交互模式，重新返回示例程序只需输入```f()```即可，如图所示：    
-    
 ![iMXRT1050_Chip](../Pic/ShareBoard_rtt_mpy_demo.gif)    
 
 ## To be continued...
