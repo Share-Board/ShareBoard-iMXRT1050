@@ -1,5 +1,6 @@
 # 开箱教程
 ## 步骤1
+- ![](../Pic/package.jpg)
 - 请扫描包装盒上的二维码获取开箱教程及其它相关资源。
 - 包装盒了有备用的插针，需要使用插针的小伙伴可自行焊接
 
@@ -18,10 +19,14 @@
 
 
 ## Reference
--[GPIO映射](https://github.com/RT-Thread/rt-thread/blob/8ed3470d2a485c49ec4f5d4a5ec53e94edf7a2c8/bsp/imxrt1052-evk/drivers/drv_pin.c#L184)
+- [GPIO映射](https://github.com/RT-Thread/rt-thread/blob/8ed3470d2a485c49ec4f5d4a5ec53e94edf7a2c8/bsp/imxrt1052-evk/drivers/drv_pin.c#L184)
 
 ## DEMO
 ![iMXRT1050_Chip](../Pic/ShareBoard_rtt_mpy_demo.gif)    
 
+
+## NOTE!!
+- **请注意！因为A0芯片的bug，断电后再上电的时间间隔需大于5秒，否则无法正常启动（电源指示LED不亮）**
+- **请注意！因为A0芯片的bug，请不要连接调试口上的VCC（未焊接）**
 
 ![Logo](../Pic/QRcode.jpg)
