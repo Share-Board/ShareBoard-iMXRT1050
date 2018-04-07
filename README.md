@@ -43,4 +43,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 - **Stephen**
 - **Thanksgiving**
 - **三**
+- **Gump**
+- **XZP**
 - All of **YOU** who love i.mx rt1050 
