@@ -12,7 +12,7 @@
 
 ## Software
 - **[FreeRTOS](https://www.freertos.org/) (comming soon)**
-- **[RT-Thread](https://github.com/RT-Thread/rt-thread)
+- **[RT-Thread](https://github.com/RT-Thread/rt-thread)**
 - **[LiteOS](https://github.com/LITEOS/LiteOS_Kernel) (comming soon)**
 - **[LearningGUI](http://www.learninggui.org/) (comming soon)**
 - **[MicroPython](https://github.com/micropython/micropython) (comming soon)**
