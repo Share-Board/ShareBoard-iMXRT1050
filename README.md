@@ -2,7 +2,7 @@
 # **[Quick Start Guide/开箱教程](https://github.com/Share-Board/ShareBoard-iMXRT1050/blob/master/Doc/Getting_Started_Guide.md)**
 **Create and Share something with i.MX RT1050**   
 
-![iMXRT1050_Chip](./Pic/iMXRT1050_Chip.jpg)        
+![iMXRT1050_Chip](./Pic/ShareBoard_photo.png)        
 
 ## Hardware
 ![iMXRT1050_Chip](./Pic/ShareBoard-i.MXRT1050_REV3.pdf.jpg)   
@@ -12,7 +12,7 @@
 
 ## Software
 - **[FreeRTOS](https://www.freertos.org/) (comming soon)**
-- **[RT-Thread](https://github.com/RT-Thread/rt-thread) (comming soon)**    
+- **[RT-Thread](https://github.com/RT-Thread/rt-thread)
 - **[LiteOS](https://github.com/LITEOS/LiteOS_Kernel) (comming soon)**
 - **[LearningGUI](http://www.learninggui.org/) (comming soon)**
 - **[MicroPython](https://github.com/micropython/micropython) (comming soon)**
