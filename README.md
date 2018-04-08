@@ -44,5 +44,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 - **Thanksgiving**
 - **三**
 - **Gump**
-- **XZP**
+- **[XZP](https://github.com/pengpeng0830)**
 - All of **YOU** who love i.mx rt1050 
