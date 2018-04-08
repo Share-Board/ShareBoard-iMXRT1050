@@ -26,6 +26,7 @@
 
 ## Reference
 - [原理图](https://github.com/Share-Board/ShareBoard-iMXRT1050/blob/master/PCB/V0.40/ShareBoard-i.MXRT1050_REV4.pdf) 
+- [RT-Thread+MicroPython+ShareBoard工程文件](https://github.com/Share-Board/ShareBoard-iMXRT1050/blob/master/Software/RT-Thread/MicroPython/RTT_MicroPython_ShareBoard.rar)
 - [MicroPython GPIO映射](https://github.com/RT-Thread/rt-thread/blob/8ed3470d2a485c49ec4f5d4a5ec53e94edf7a2c8/bsp/imxrt1052-evk/drivers/drv_pin.c#L184)
 - 
 
