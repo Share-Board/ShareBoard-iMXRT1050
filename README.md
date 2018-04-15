@@ -2,11 +2,10 @@
 # **[Quick Start Guide/开箱教程](https://github.com/Share-Board/ShareBoard-iMXRT1050/blob/master/Doc/Getting_Started_Guide.md)**
 **Create and Share something with i.MX RT1050**   
    
-<img src="./Pic/ShareBoard_photo.png" alt="hi" width="900"> 
+<img src="./Pic/ShareBoard_photo.png" alt="hi" width="850"> 
 ## Hardware
 
-<img src="./Pic/ShareBoard-i.MXRT1050_REV3.pdf.jpg" alt="hi" width="800"> 
-<img src="./Pic/ShareBoard-i.MXRT1050_REV3_Pcb2.jpg" alt="hi" width="400"> <img src="./Pic/PCB_Front.png" alt="hi" width="400"> 
+<img src="./Pic/ShareBoard-i.MXRT1050_REV3.pdf.jpg" alt="hi" width="800"> <img src="./Pic/ShareBoard-i.MXRT1050_REV3_Pcb2.jpg" alt="hi" width="400"> <img src="./Pic/PCB_Front.png" alt="hi" width="400"> 
 
 ## Software
 - **[FreeRTOS](https://www.freertos.org/) (comming soon)**
