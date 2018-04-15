@@ -10,6 +10,10 @@
 ![iMXRT1050_Chip](./Pic/PCB_Front.png)     
 ![iMXRT1050_Chip](./Pic/PCB_Back.png)   
 
+<img src="./Pic/ShareBoard-i.MXRT1050_REV3.pdf.jpg" alt="hi" width="400" height="400"> <img src="./Pic/ShareBoard-i.MXRT1050_REV3_Pcb2.jpg" alt="hi" width="400">
+
+<img src="./Pic/PCB_Front.png" alt="hi" width="400"> <img src="./Pic/PCB_Back.png" alt="hi" width="400">
+
 ## Software
 - **[FreeRTOS](https://www.freertos.org/) (comming soon)**
 - **[RT-Thread](https://github.com/RT-Thread/rt-thread)**
