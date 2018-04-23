@@ -10,12 +10,11 @@
 <img src="./Pic/ShareBoard-i.MXRT1050_REV3.pdf.jpg" alt="hi2" width="800"> <img src="./Pic/ShareBoard-i.MXRT1050_REV3_Pcb2.jpg" alt="hi3" width="400"> <img src="./Pic/PCB_Front.png" alt="hi4" width="400"> 
 
 ## Software
-- **[FreeRTOS](https://www.freertos.org/) (comming soon)**
+- **[FreeRTOS](https://www.freertos.org/)**
 - **[RT-Thread](https://github.com/RT-Thread/rt-thread)**
-- **[LiteOS](https://github.com/LITEOS/LiteOS_Kernel) (comming soon)**
-- **[LearningGUI](http://www.learninggui.org/) (comming soon)**
-- **[MicroPython](https://github.com/micropython/micropython) (comming soon)**
-- **[MOE](https://github.com/ianhom/MOE) (comming soon)**
+- **[LiteOS](https://github.com/LITEOS/LiteOS_Kernel)**
+- **[MicroPython](https://github.com/micropython/micropython)**
+- **[MOE](https://github.com/ianhom/MOE)**
 - **More...**
 
 # Demo
